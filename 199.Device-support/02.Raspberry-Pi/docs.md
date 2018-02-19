@@ -20,8 +20,7 @@ Vendor page: [https://www.raspberrypi.org](https://www.raspberrypi.org?target=_b
 
 | Device            | MACHINE variable | Mender support level |
 |-------------------|------------------|----------------------|
-| [Raspberry Pi Zero](https://www.raspberrypi.org/products/raspberry-pi-zero?target=_blank)      | raspberrypi0  | community |
-| [Raspberry Pi 1](https://www.raspberrypi.org/products/raspberry-pi-1-model-b?target=_blank)    | raspberrypi   | community |
+| [Raspberry Pi Zero W](https://www.raspberrypi.org/products/raspberry-pi-zero-w?target=_blank)      | raspberrypi0-wifi  | community |
 | [Raspberry Pi 2](https://www.raspberrypi.org/products/raspberry-pi-2-model-b?target=_blank)    | raspberrypi2  | community |
 | [Raspberry Pi 3](https://www.raspberrypi.org/products/raspberry-pi-3-model-b?target=_blank)    | raspberrypi3  | reference |
 
